@@ -70,9 +70,14 @@ body{
   font-size: 32.0px;
 	font-weight:bold;
 	color:#495e84    ;
-
-
 }
+.job_title{
+	font-size: 15px;
+	margin-top: 5px;
+	color: rgb(68, 68, 64);
+}
+
+
 
 span.topics{
 	font-size: 17px;
@@ -213,15 +218,15 @@ text-align: right;
 }
 
 .projects_block{
-	padding-top: 30px;
+	padding-top: 20px;
 }
 
 .experience_block{
-	margin-top: 30px;
+	margin-top: 20px;
 }
 
 .certificates_block{
-	margin-top: 30px;
+	margin-top: 20px;
 }
 
 .institution{
